@@ -12,7 +12,7 @@ Runs the app in the development mode.
 
 ## Technologies
 
-Express.js
+Express.js<br />
 MongoDB
 
 ## Packages
