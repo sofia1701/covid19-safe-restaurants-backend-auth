@@ -17,17 +17,17 @@ MongoDB
 
 ## Packages
 
-bcryptjs
-cors
-dotenv
-express
-jsonwebtoken
-mongoose
+bcryptjs<br />
+cors<br />
+dotenv<br />
+express<br />
+jsonwebtoken<br />
+mongoose<br />
 nodemon
 
 ## Authors
 
-Justin 
-Sofia
+Justin<br />
+Sofia<br />
 Zein
 
